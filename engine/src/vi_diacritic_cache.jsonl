@@ -1,0 +1,184 @@
+{"k": "2947b93ad8f877f97db754638a59a929fbe90697", "v": "bãi tập kiểm tra"}
+{"k": "3aba9483d03fafc7fbc8ca1afed087d32fa4b873", "v": "Tính z. (0.5 điểm)"}
+{"k": "6a91ad8c76fb2f04e9aed195f179f4303efa9f95", "v": "Thời gian: 90 phút"}
+{"k": "8fe3449ca34e046011394679c65b16e0e12dc29c", "v": "Tính ZM0Z, (1 điểm)"}
+{"k": "ced624eb997b4f0cdf7d04105341d5003bb90c44", "v": "Lớp đầu ra được xác định bởi"}
+{"k": "a4e575e0c0b261270faad0a2611faaaa5953e998", "v": "rnn trong hồi quy và phân lớp"}
+{"k": "acf05c29d9cdc219341cd5549b0b1eba828b140c", "v": "Tính lần lượt ZM0Z . (1.5 điểm)"}
+{"k": "aac1a0e1a82c8e4f95bb2031804142cf766b39b0", "v": "Câu 1. RNN cho hồi quy (3 điểm)"}
+{"k": "9b76bb85519395763574e748c177f5d23870c0fe", "v": "Tính nhiệt độ dự đoán u. (0.5 điểm)"}
+{"k": "8b3b626301cbc4d3bb04d5b2371af1968d2efde2", "v": "Câu 3. RNN cho phân lớp đá lớp (3 điểm)"}
+{"k": "dfac64bf7c9ade129679be944b4e94410865e652", "v": "Câu 2. RNN cho phần lớp nhị phân (3 điểm)"}
+{"k": "e1128a562ca410d3fffb0f0be47fdeeb2231fc63", "v": "Xét RNN với đạn vào và trạng thái ăn vô hướng:"}
+{"k": "03e8c4d9cc871becbb6125e606b78d93f5de5654", "v": "Câu 4. Thiết kế mô hình dự báo doanh thu (1 điểm)"}
+{"k": "648eeb2c0bf9db2ba5a0f54e608b52083a9da6e3", "v": "Tính ZM0Z, ZM1Z và xác định nhân dự đoán. (1 điểm)"}
+{"k": "a72b97c42e8c886395752da6c16dd560a3be277a", "v": "Đây là hội quy hay phân lớp? Giải thích. (0.25 điểm)"}
+{"k": "547ca667b53bb786a8792b8cb9f3fc302032f268", "v": "h _ t  x _ t + 0. 5 h _ t - 1, quad h _ 0  0."}
+{"k": "c791d36b26432c7663be7569101d625aa4e869bf", "v": "Các điểm số đầu ra trước chuẩn hóa (logits) được tính bởi"}
+{"k": "052acbf470dac5c09cb66384dd86a69424db708b", "v": "Xác định nhân bằng quy tắc chọn xác suất lớn nhất. (0.5 điểm)"}
+{"k": "8e658fb780ae57af7ebe2e80b359f930aba7fd81", "v": "Viết công thái Softmax và tính xác suất của từng lớp. (1 điểm)"}
+{"k": "cf1efa43d4f8db0492b9189ccb07070e1a1c1a20", "v": "Một hệ thống dự đoán nhiệt độ ngày thứ tư từ nhiệt độ ba ngày trước:"}
+{"k": "b1727c8e27ace80b53b48754e44658f1534a79dc", "v": "z  0. 8 h _ 4 - 1, quad p  sigma (z)  frac 11 + e  - z."}
+{"k": "548dae93aac050b324e603e0245560c7acd0ac34", "v": "h _ t  tanh (w _ x h x _ t + w _ t h h _ t - 1), quad h _ 0  0,"}
+{"k": "93a3fb2064cb6bd7767407cc715c5813ba35c9d6", "v": "x _ 1  0. 2, quad x _ 2  0. 6, quad x _ 3  0. 8, quad x _ 4  0. 4."}
+{"k": "67668cdd5fd2845dd3d1ed218949ce709f5c93b0", "v": "x _ 1  2 0, quad x _ 2  2 2, quad x _ 3  2 4 quad ( circ mathrmC),"}
+{"k": "133a5938cde47dc2354437849e2d47ec407b6579", "v": "Một doanh nghiệp dự báo doanh thu tháng kế tiếp dựa trên doanh thu của 12 tháng gần nhất."}
+{"k": "c78a6a46a4017eb2bfee865f091434cf69731fa6", "v": "Về RNN khai triển theo 3 bước thời gian, sử dụng trạng thái cuối cùng để tạo ra đầu ra. (0.5 điểm)"}
+{"k": "5771ca84cc6d7b835bb90ad3469f55d418607b4b", "v": "mathbf h _ T  left[ beginarrayc 1. 0  0. 5 endarray right] in mathbb R  2,"}
+{"k": "90b0429f608c78930c3e2e5318f882fc88b31960", "v": "Trong bài này, trạng thái ăn của RNN sử dụng hàm kích hoạt động nhất (không phải tạnh), với công thức truy hồi sau:"}
+{"k": "74feb18b90ae6bb059fe2f6f3cff08accdc9561b", "v": "Hàng thủ ZM0Z của ZM1Z ứng với lớp thứ k trong thứ tự đã nêu. Không có hệ số chệch ở đầu ra. Có thể dùng ZM2Z và ZM3Z."}
+{"k": "244d47e55d4bd4d1f7f9fcccb04c14e6c89cd710", "v": "tanh (2) approx 0. 9 6 4 0, quad tanh (2. 6 8 2 0) approx 0. 9 9 0 7, quad tanh (2. 8 9 5 4) approx 0. 9 9 3 9."}
+{"k": "71712e3e7b9a2409b3b992b6c7c6958ea9b9313c", "v": "p là xác suất do mô hình ước lượng cho lớp tích cực. Quy tắc quyết định: ZM0Z nếu ZM1Z ; ngược lại, ZM2Z . Có thể dùng ZM3Z ."}
+{"k": "461529d2adf3b5e7b1b451f13fb296f1d7695263", "v": "Mỗi chuỗi cảm biến được gần đúng một trong ba lớp loại trừ lẫn thận theo thứ tự: đi bộ, chạy, đứng yên. Trạng thái cuối của RNN là"}
+{"k": "47713b551ea6799ad9a779e24620d5ac0f839fbf", "v": "Đầu ra a được biểu diễn theo C. Đây là bộ tham số minh họa, không khẳng định rằng mô hình đã được huấn luyện tối ưu. Có thể dùng:"}
+{"k": "11a6c1ec5fa51ca18e419e4ae193ddfe8010c853", "v": "Về sơ đồ kiến trúc từ chuỗi biểu diễn đầu vào đến nhận dự đoán; giải thích vai trò của Sigmoid và phân biệt ZM0Z với ZM1Z. (1 điểm)"}
+{"k": "1d913d767fed65ff821f22b922a4d89c60b9378f", "v": "w _ x h  0. 1, quad w _ h h  0. 5, quad đốt y  w _ h y h _ 3 + b _ y, quad w _ h y  1 0, quad b _ y  1 5."}
+{"k": "c1e8014ef102a69005b97beb05affa16d58d0480", "v": "Sơ đồ có thể được vẽ bằng các khối và mũi tên, thể hiện thứ tự thời gian, trạng thái ban đầu, đầu ra và việc sử dụng chung các tham số."}
+{"k": "4242bba7332bb6dea16fa81096b581b7d83d1b54", "v": "Mô tả kiến trúc từ chuỗi cảm biến đến nhân: giải thích vì sao sử dụng Softmax thay vì 3 đầu ra Sigmoid độc lập trong thiết lập này. (1 điểm)"}
+{"k": "bf5499248278a3f5a91a9fd70d2fe56b579c8895", "v": "mathbf z  mathbf W h _ T, quad mathbf W  left[ beginarrayc c 1 & 0  0 & 2  1 & 1 endarray right] in mathbb R  3 times 2."}
+{"k": "e0e877f88794eb7648c094d358e792b214af7330", "v": "Một văn bản được gán đúng một trong hai nhãn: tích cực (1) hoặc tiêu cực (0). Để đơn giản hóa phép tính, mỗi đơn vị đầu vào đã được biểu diễn bằng một giá trị vô lượng:"}
+{"k": "ed0a4c95264302f4d0418a9d4e0a3610e3596c70", "v": "Khi huấn luyện trên ZM0Z mẫu có nhận thức ZM1Z, viết hàm mật mật sai số bình phương trung bình và giải thích vì sao không dùng trực tiếp Sigmoid để biểu diễn nhiệt độ theo đơn vị ZM2ZC trong ví dụ này. (0.5 điểm)"}
+{"k": "d1839adc1d10a3f108bda18b16fb3a46f717fcd4", "v": "Đề xuất kiến trúc RNN tạo ra một đầu ra từ một chuỗi: mô tả cách đưa doanh thu 12 tháng vào mô hình theo thứ tự thời gian, vai trò của trạng thái ăn và cách sử dụng trạng thái ăn cưới để tạo ra một giá trị dự báo doanh thu tháng kế tiếp. (0.75 điểm)"}
+{"k": "0e6d6be5e0238215ecf3bc83aa797add69cfe188", "v": "Quy định: Các tham số đã được cho sàn; không cần huấn luyện hoặc tính gradient. Giữ ít nhất 4 chữ số thập phân trong các bước trung gian; làm tròn kết quả cuối cùng đến 3 chữ số thập phân. Có thể sử dụng các giá trị gần đúng được cung cấp. Chấp nhận sai số đó làm tròn hợp lý."}
+{"k": "1cc964daf0da0ad9e4c431f8b268dc70147d6465", "v": "Tính ZM0Z. (1 điểm)"}
+{"k": "33af277b8a5cd2ba3a5ac0f8468b279a9a1c0077", "v": "D. cột ZM0Z"}
+{"k": "0e60f3def330ce5e292ed301e457864ce064f92b", "v": "B. cos ZM0Z"}
+{"k": "d81fdb7995baf290693a47a80d74d53ce06784c2", "v": "C. cos ZM0Z"}
+{"k": "2d0e686f525264539cbf7d6677e2827539ae9936", "v": "D. cos ZM0Z"}
+{"k": "3057bfd1172da1289ec2ff491b2f791296ae2c3e", "v": "B. tấn   cột"}
+{"k": "70db90f4a457cc02aa4f16b47e68513232ac4eeb", "v": "B. sin P  cột N"}
+{"k": "7916a6287bdf08de6efcda502deef420fac4b32f", "v": "A. sin   cos"}
+{"k": "dde9aa0b118589b65ad9515ac52efbbaecc8dcd2", "v": "D. cos   cos"}
+{"k": "1100e5a616f6d721b34446b29ed1b4588b92ab30", "v": "Bài 3 (1,5 điểm)."}
+{"k": "a121d3ba7ea8abfdf288af4b791cd2daf4a02eff", "v": "Bài 1 (1,5 điểm)."}
+{"k": "a8aab37541718015dce6106748612be63c597666", "v": "B. x  4 và x  4"}
+{"k": "2434b5c19cd87c63acc5039ad5dd98e9b64ca550", "v": "A. Tâm của đường tròn"}
+{"k": "12f9b7a8afea4b6ffedbb5b07ad26a3918a761bb", "v": "C. Tiếp tuyến của đường tròn"}
+{"k": "ee9c28ddf2750017f6d79abd03e97b1012b39a62", "v": "D. Điểm bất kì trên đường tròn"}
+{"k": "ec32ee5d27751871f89990797ea10be11aadd357", "v": "B. Điểm B nằm trên đường tròn (O)"}
+{"k": "cf1f8eb871ebf80eb7f8f5113fe5b770ce5cecd9", "v": "Bài 13 (Toán thực tế đọc nghiêng)."}
+{"k": "c6873d5b60a4f4614c0dcb0704b9023a422407e8", "v": "D. Không xác định được vị trí của B"}
+{"k": "0b85ff569a9f30510cf3bc8b9e974ddc2823adc1", "v": "B. Điểm bất kì bên trong đường tròn"}
+{"k": "3ef575c844a959134f3aa95ded07f3f584aa4b2c", "v": "C. Đường tròn không có tâm đối xứng"}
+{"k": "1d076b53ab67a08a33676880d645412779879f44", "v": "C. Điểm bất kì bên ngoài đường tròn"}
+{"k": "1855e3ef0035e5abfa3c9f8984f9c7de7443b17b", "v": "A. Điểm B nằm bên trong đường tròn (O)"}
+{"k": "0358df42fabd59a8ff97183b547ce1b842ff6c4e", "v": "C. Điểm B nằm bên ngoài đường tròn (O)"}
+{"k": "1ab2707a9f0a904e94040a1e32ffc52b298418f6", "v": "A. Dãy bất kì nằm bên trong đường tròn"}
+{"k": "afa063c25997ae4a6d622ff273692109a5393565", "v": "Câu 25. Tam đối xứng của đường tròn là:"}
+{"k": "cd56ae07050842010f6a0438675b32c46b6ff4cf", "v": "i. phần trắc nghiệm khách quan (28 câu)"}
+{"k": "b388aec045fd7870eab5618c0056ba4f02a33b3f", "v": "Câu 24. Trục đối xứng của đường tròn là:"}
+{"k": "e2a41113314a2623b8cf90c215e6e6302aa55384", "v": "B. Đường thẳng đi qua tâm của đường tròn"}
+{"k": "ecba2e49bc355361b8ced61100d764ff34f96e74", "v": "ii. phần tự luận (15 bài tự luận đầy đủ)"}
+{"k": "800ca32b1873affafd6761b62b43c3988ae9abed", "v": "Bài 10 (Toàn thực tế mảnh đất xây nhà 1)."}
+{"k": "607bb929255f5fc6a92edc61421e8d67dd757d66", "v": "Câu 3. Hệ phương trình ZM0Z có nghiệm là:"}
+{"k": "85cfe19315ed8e6cdf70930f1fdb2cebfd42cfdf", "v": "Bài 11 (Toàn thực tế mảnh đất xây nhà 2)."}
+{"k": "a305a2ea840520e8b5548cffc7c81ea2ac0e6a4f", "v": "Bài 2 (1,5 điểm). Giải các phương trình sau:"}
+{"k": "9191c160f180be6836bc95e4a9d89bb3bb79649b", "v": "Bài 4 (1,5 điểm). Giải các phương trình sau:"}
+{"k": "6bc330155c0c211e280112c34bebe3199ca773af", "v": "B. Đường tròn chỉ có duy nhất 1 trục đối xứng"}
+{"k": "c67f8905a4c5bb2dbe1d86b4592ed2e345d82ef8", "v": "Hồi già niêm yết của mỗi mặt hàng là bao nhiêu?"}
+{"k": "b96b27c2365d331ccd00e2e8780d3241db19fec6", "v": "b) Giải hệ phương trình bậc nhất hai ẩn sau: ZM0Z"}
+{"k": "b074ab6f0bf68750c1af592dcc341be869041431", "v": "D. Đoạn thẳng nội tâm với một điểm trên đường tròn"}
+{"k": "cf41f1d168a0091592886780884158b772f787eb", "v": "Bài 12 (Toán thực tế khu đất trồng cây - lát gạch)."}
+{"k": "9637983c41a0c25d08fd289f1c3554d41cdfdc90", "v": "Bài 14 (Toán thực tế do khoảng cách không trực tiếp)."}
+{"k": "76d5ec2c3c57b18275244ab5aed56009b70c9f77", "v": "Câu 13. Nếu góc nhọn  thỏa mãn cos ZM0Z thì ZM1Z bằng:"}
+{"k": "b111570aff356067e9be073b32e4a658e6a2e2e4", "v": "Câu 1. Điều kiện xác định của phương trình ZM0Z ZM1Z là:"}
+{"k": "ee2d7f2ac9a5dc76574086b77805daca1dc01d0d", "v": "Câu 27. Cho tam giác DEF vuông tại D. Khi đó cos E bằng:"}
+{"k": "8049710fe107452f8ba353da4b6161e9f4f626d9", "v": "Câu 28. Cho tam giác ABC vuông tại A, có BC  10, AC  6."}
+{"k": "4130dc6f19c8ea22f8f89e1633e1e697736d41cb", "v": "b) Biết diện tích làm nhà là 117 m 2 . Tìm giá trị của x."}
+{"k": "b786966f2847ccbe7f0e2e4171ff78cb9733a647", "v": "Câu 7. Cho tam giác ABC vuông tại A. Khi đó, cos ACB bằng:"}
+{"k": "0e406f5f83da7b5921ab027735a9008bcedf176d", "v": "Câu 19. Điều kiện xác định của phương trình ZM0Z  ZM1Z là:"}
+{"k": "cddd5f0c526288d69eaa30be4c9bd5d95aafc180", "v": "Câu 11. Điều kiện xác định của phương trình ZM0Z + ZM1Z là:"}
+{"k": "8b56cd3e62bcf55c14e7aa70a633b8ecaddf2606", "v": "D. Bán kính là đoạn thẳng nối hai điểm tùy ý trên đường tròn"}
+{"k": "10d70348f6a3382e5de623295c45c53d9595ef02", "v": "Câu 4. Cho MNP vuông tại M. Khẳng định nào sau đây là đúng?"}
+{"k": "b8939e5581792504943e6731095ff9d0b4e51f67", "v": "Câu 2. Cấp số (3; 1) là nghiệm của phương trình nào dưới đây:"}
+{"k": "b2ebf7224a92a0d5f2fa47c0e9bad9c4489156dc", "v": "b) Tìm x, biết diện tích mảnh đất dành để xây nhà là 192 m2 ."}
+{"k": "9f89000bbcf2d3349cf1268420446f84581cd9e4", "v": "a) Hay viết biểu thức thu gọn tính diện tích sân vườn theo x."}
+{"k": "687b974b9bf99c1db49ef93f488324fc696e8922", "v": "Câu 22. Cho đường tròn (O; R). Khẳng định nào sau đây là đúng?"}
+{"k": "eeb4831b3b2243a19aa889549a4c8d45a0937750", "v": "Câu 5. Tỉ số lượng giặc cốt 32 bằng với tỉ số lượng giặc nào?"}
+{"k": "d49476e653e4fd797f773ecd78e6c6f9513d2f09", "v": "a) Lập biểu thức A theo x tính diện tích phần đất để lát gạch."}
+{"k": "a2cb7329ae9ee9dfef34be6c52b6e140f667c2cd", "v": "Bài 5 (1,5 điểm). Giải các phương trình và hệ phương trình sau:"}
+{"k": "4bbf5d7cb57ec8d14f2268cbe71b5bb2f5313228", "v": "Câu 18. Phương trình tích (4x  12)(x + 3)  0 có tập nghiệm là:"}
+{"k": "19769eebf0c14f1e5ef0a971baccb46dac4a7aca", "v": "Câu 10. Phương trình tích (x  5)(3x + 12)  0 có tập nghiệm là:"}
+{"k": "414e48b43edef1476bfd0e4f6f12b883d533d887", "v": "Câu 26. Cho MNP vuông tại M có góc nhọn P  . Khi đó cos  bằng:"}
+{"k": "683667c351f9e7abedbe6b6e19ee0aaf6554df55", "v": "A. Mỗi đường thẳng đi qua tâm O đều là trục đối xứng của đường tròn"}
+{"k": "f8c6f8f6251741856c4036ea656e746e22ca5924", "v": "Hồi trong tháng thứ nhất, mỗi tổ sản xuất được bao nhiêu chi tiết máy?"}
+{"k": "3458d6b05b749c456b5d22f66ebb5a94746128e5", "v": "Bài 15 (Hình học đường tròn & đa giác nội tiếp - Theo chuẩn SGK Toán 9)."}
+{"k": "6cffb8c4ac696459e142e09250e5c2e22c65ac28", "v": "Câu 6. Cho MNP vuông tại M, đường cao MH và góc P  . Tỉ số ZM0Z bằng:"}
+{"k": "a1f2aca72fb288eb11253f42463f38f2f0c67fb3", "v": "Câu 17. Cấp số (x; y)  (3; 2) là nghiệm của hệ phương trình nào sau đây?"}
+{"k": "e5a5cecbc7834d5df3b43d076f8af3ff637530d6", "v": "a) Viết biểu thức biểu diễn diện tích mảnh đất dành để xây nhà theo biến x."}
+{"k": "11d3ece6b141e2369ec134a0ea06717eb82bd2b3", "v": "Câu 8. Cấp số nào sau đây không phải là nghiệm của phương trình x  3y  4?"}
+{"k": "28841135072623c338fac682f15f3973467b205e", "v": "b) Biết diện tích phần đất lát gạch là 59 m 2 . Tính chu vi khu đất trồng cây."}
+{"k": "832066764474e003fe56a09d0758211569a75433", "v": "Câu 9. Hệ phương trình  3x + y  7 ; x  y  1  có nghiệm duy nhất (x; y) là:"}
+{"k": "f96b107d67a38bd0d10d10ad0cfe3c39a342e740", "v": "Câu 12. Cho MNP vuông tại M có góc P  30 và NP  16 cm. Độ dài cạnh MP bằng:"}
+{"k": "490aecb70418620ebb0d230c468e5db6af908f17", "v": "Em hãy tính các khoảng cách CA và BC (làm tròn kết quả đến hàng đơn vị của mét)."}
+{"k": "53517b348b529169b4c479490ddf9adc736246d1", "v": "Câu 20. Cho ABC vuông tại A có AB  9 cm, AC  12 cm. Tỉ số lượng giác cos B bằng:"}
+{"k": "cf10622e1f29397519ae4a10040ef02c33bde6d7", "v": "Câu 16. Trong các phương trình sau, phương trình nào là phương trình bậc nhất hai ẩn?"}
+{"k": "371233d1de0b9c97a2312b1041b36729f78ac213", "v": "Câu 21. Cho hai góc nhọn  và  phụ nhau ( +   90). Khẳng định nào sau đây là sai?"}
+{"k": "9d96ff1f2ad427d0a85d3d7e277e5288c7d15f2a", "v": "a) Tìm giá trị của m để cấp số (2; 1) là một nghiệm của phương trình bậc nhất hai ẩn ZM0Z"}
+{"k": "e73fb96d35c4a0de2ccc043eb26f3906c8284873", "v": "Câu 23. Cho đường tròn (O), số đo cũng nhỏ MN bằng 75. Số đo góc ở tâm MON tương ứng là:"}
+{"k": "fe6b12ae326bd5ad61cd5964854a8617fdb7c56e", "v": "Câu 14. Cho đường tròn (O; 7 cm) và điểm B sao cho OB  4 cm. Khẳng định nào sau đây là đúng?"}
+{"k": "dd35c53ee646fde29724b1985328637fd26cc740", "v": "Câu 15. Trên đường tròn (O), lấy hai điểm A, B sao cho góc ở tâm AOB  120. Sơ đồ của cung lớn AB là:"}
+{"k": "c648e6c21c4aced519c5ebde032e592222210dcd", "v": "a) Kiểm tra xem cấp số (2; 3) có phải là nghiệm của phương trình bậc nhất hai ẩn 3x + 4y  6 hay không?"}
+{"k": "2bf281c5b9913300442f98ec0511a45f174c542c", "v": "Bài 9. Một trường tổ chức cho 300 người gồm giáo viên và học sinh tham quan đã ngoài. Giá vé vào cổng của một giáo viên là 90 000 đồng, của một học sinh là 60 000 đồng."}
+{"k": "61146be0e48884861ef4542825507d88e926711e", "v": "Anh Ba có một khu đất hình chữ nhật dài 12 m và rộng 7 m. Anh dự định đánh một phần đất hình vuông có cạnh lá x (m) để trồng cây, phần diện tích còn lại dùng để lát gạch."}
+{"k": "754762e2411db95720dec3c033095d122de22171", "v": "c) Cho hình vuông HIJK có độ dài cạnh bằng 5 cm. Chứng minh bốn đỉnh của hình vuông cùng thuộc một đường tròn tâm O (với O là giao điểm hai đường chéo) và tính bán kính R."}
+{"k": "2bff788067f81d6eaf82bdf5ac7b81e5dc0094be", "v": "Bắc Vân có một mảnh đất hình chữ nhật với chiều dài 15 m và chiều rộng 12 m. Bắc dự định xây nhà trên mảnh đất đỏ và dành một phần diện tích đất để làm sân vườn như hình vẽ bên."}
+{"k": "8269b981ef21482304a2bb7889ce053902c94e02", "v": "b) Cho hình chữ nhật PQRS cỡ PQ  6 cm, QR  8 cm. Gọi K là giao điểm của hai đường chéo PR và QS. Chứng minh bốn điểm P, Q, R, S cùng thuộc một đường tròn và tính bán kính của đường tròn đó."}
+{"k": "094a0d27a89d77b87b4928650cf7470de8649180", "v": "a) Cho tam giác ABC vuông tại A có AB  5 cm, AC  12 cm. Chứng minh răng luôn có một đường tròn đi qua cả ba đỉnh A, B, C. Xác định tâm O và tính bán kính R của đường tròn ngoại tiếp tam giác ABC."}
+{"k": "1e39644f51a02792dc2c5f2fa4f55b9d6f602414", "v": "Do đi đúng dịp lễ tri ân nên khu du lịch giảm giá 10% trên mỗi vé vào cổng, vì vậy nhà trường chỉ phải thanh toán tổng cộng 18 630 000 đồng. Hội có bao nhiêu giáo viên và bao nhiêu học sinh tham gia?"}
+{"k": "4930434f0c49d71072cfad5eaf57fb36d8ff0373", "v": "Cổ Dũng có một mảnh đất hình chữ nhật với chiều dài 28 mét và chiều rộng 21 mét. Có dự định xây nhà trên mảnh đất đỏ và dành một phần diện tích đất để làm sân vườn như hình vẽ bến (kích thước tính theo mét)."}
+{"k": "8b191f93628fa02fcb21f0fc9f97435ece50e27a", "v": "Một người dày một vật lên hết một con dốc nghiêng 35 so với phương nằm ngang. Biệt độ dài còn dốc là 4 m. Hay tính độ cao của vật so với mặt đất khi vắt lên tới đỉnh dốc (làm tròn kết quả đến một chữ số thập phân)."}
+{"k": "4c1616d10e2770823154b73c8c2f59c71ed711e9", "v": "Bài 6. Trong tháng thứ nhất, hai tổ sản xuất được 900 chi tiết máy. Sang tháng thứ hai, nhờ cải tiến kĩ thuật, tổ một sản xuất vượt mức 15%, tổ hai sản xuất vượt mức 20% so với tháng thứ nhất nên cả hai tổ đã sản xuất vượt mức 160 chi tiết máy."}
+{"k": "0fe52fbdb6ac77e2d83f2e1e362452db0dacdefc", "v": "Hình vẽ bên mô tả ba vị trí A, B, C là ba đỉnh của một tam giác vuông tại A và không đo được trực tiếp các khoảng cách từ C đến A và từ C đến B do bị ngăn cách bởi một hồ nước. Biết khoảng cách đo được trên bờ là AB  50 m và góc ngắm quan sát được là ABC  40."}
+{"k": "2a04b7ed7d0a0a1711d436da3c70feff07a0bb36", "v": "Bài 7. Một trường THCS mua 600 quyển vở để phát thưởng cho học sinh giỏi. Giá bán của mỗi quyển vở loại I là 7 000 đồng, loại II là 9 000 đồng. Biệt tổng số tiền nhà trường dùng để mua 600 quyển vở trên là 4 700 000 đồng. Hội nhà trường đã mua bao nhiêu quyển vở mỗi loại?"}
+{"k": "30185ef29bf51904f3d9b7a4f53ebc11a3563e57", "v": "Bài 8. Sau khi xem tờ rơi siêu thị, mẹ bản Nam đưa bản 350 000 đồng mua 1 chai dầu ăn 5 lít và 2 gói bột giặt loại 1 kg thì vừa đủ tiền theo giá niêm yết. Hôm nay siêu thị khuyến mại: dầu ăn giảm giá 10%, bột giặt giảm giá 15% so với giá niêm yết, do đó Nam chỉ phải trả tổng cộng 307 500 đồng."}
+{"k": "d563eb05d31103f87cf71f4a4b49f49c47649f1f", "v": "Câu 4 (2,0 điểm):"}
+{"k": "1c8d4e2139c7841e3556dacbf241bf3b572a6e48", "v": "Câu 1 (3,0 điểm):"}
+{"k": "0acb5af6eaa62e98d3a3593d15c11ec2f8fd6bcc", "v": "Câu 3 (3,0 điểm):"}
+{"k": "c25730600c44eb16deb377604a7ae0045b68f674", "v": "Câu 2 (2,0 điểm):"}
+{"k": "049711c99703d4ca2a3d9b99b44fb4f435569df3", "v": "Rút gọn biểu thức: ZM0Z."}
+{"k": "b2a2a6cdd2318c9435753d225bdc8a79d65f6742", "v": "Giải phương trình: ZM0Z ."}
+{"k": "01177e11a8c95d6cf76e10ec4338e30dd8c12677", "v": "Chứng minh hệ thức: ZM0Z ."}
+{"k": "bdb367586ce8120165621f9b3426c69ba80307d7", "v": "Chứng minh dạng thức: ZM0Z ."}
+{"k": "0053ccc1d39d8f3f71ae733119c5db6abe053dad", "v": "Cho cấp số cộng ZM0Z thỏa mãn:"}
+{"k": "41523c17754d690aad2d459718cfa86e9b08c70c", "v": "Tìm tập xác định của hàm số: ZM0Z ."}
+{"k": "66c9a2064b84af387cbd25c74976e78f0ab1953b", "v": "Giải phương trình: sin 2x - cos x  0."}
+{"k": "89c493626bf924b6addd3212d4df67a019aafaf6", "v": "Giải phương trình: cos 2x + cos 4x  0."}
+{"k": "aa03ba94a2cb5743626e8dd993effbcd39e091ec", "v": ". Tìm số hàng đầu ZM0Z và công sai ZM1Z."}
+{"k": "e0cd33e3f3032a4b95f268c36b43c3014a08d3be", "v": "Giải phương trình: cột (2x + 10)  ZM0Z ."}
+{"k": "8649abaa509feb8ea2117dd7e27614f95472d4a8", "v": "Xét tính bị chặn của dãy số ZM0Z biết ZM1Z ."}
+{"k": "ce0cc6ed822ed33b14f60e2bdea3c453346df6ac", "v": "Biệt tán   2. Tính giá trị của biểu thức ZM0Z."}
+{"k": "25c4f6a7599c3ea08ba466c9109c70d117d827ab", "v": "Cho cos ZM0Z với ZM1Z. Tính sin ZM2Z và cos ZM3Z."}
+{"k": "0f23c79436307046c62b35cc7bc319782caa4ae0", "v": "Đối số đo góc ZM0Z sang radian và góc ZM1Z sang đo."}
+{"k": "8b0a0263ca25c408594b2dd6d14e4866b589ad6b", "v": "Tìm chu kì tuần hoàn của hai hàm số: ZM0Z và ZM1Z ."}
+{"k": "15b91cf78d0fd0e6b5e70a2977d9017cc637deb8", "v": "Cho cấp số cộng ZM0Z có ZM1Z và ZM2Z . Tim ZM3Z và d."}
+{"k": "6af6ba68380caef01184b94804188bfec81e2ee1", "v": "Tính giá trị của biểu thức không dùng máy tính: ZM0Z ."}
+{"k": "bdc0e7f30b446affd7768e2f3dd296f9bf2ae79f", "v": "Cho dãy số ZM0Z với ZM1Z. Xét tính tăng, giảm của dãy số."}
+{"k": "05f72ee9a2f6d53749a0ac4256d6010ac0150c90", "v": "Cho sin ZM0Z và cos ZM1Z với ZM2Z. Tính ZM3Z và cos ZM4Z."}
+{"k": "07ff4922a1b38407ac435aa2404cd9f34f0213e9", "v": "Tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số: ZM0Z."}
+{"k": "bc8562aec815a4c905a3a157e8cde9b5052dcfe5", "v": "begincases u_1 + u_5  18  u_3 + u_7  26 endcases"}
+{"k": "b50f64bd7e2a8cfcf7d9cbe4db4881634deb72fe", "v": "Cho gốc ZM0Z thỏa mãn ZM1Z và ZM2Z. Tính ZM3Z, ZM4Z và ZM5Z."}
+{"k": "f3992d66f83ccc9ebaf1f2f2180857fdb873812b", "v": "Cho dãy số ZM0Z xác định bởi ZM1Z. Chứng minh dãy số ZM2Z bị chặn."}
+{"k": "6cee04729669083e0a7c558f4f8152ad4b32b8aa", "v": "Tìm số hàng đầu và công sai của cấp số cộng ZM0Z biết ZM1Z và ZM2Z ."}
+{"k": "c7af966cb71f6b35b0cd5d17a074845c2970d12d", "v": "Viết 5 số hạng đầu tiên của dãy số ZM0Z cho bởi: ZM1Z, ZM2Z với ZM3Z."}
+{"k": "7419df9b4526f959dc07d3651feb513b02c5efe7", "v": "Cho cấp số nhân ( ZM0Z ) có ZM1Z và ZM2Z . Tính tổng của 8 số hạng đầu tiên."}
+{"k": "53d502c139d255bf755374015406b2855fadcdeb", "v": "Giữa hai số 4 và 64, hay chèn thêm 3 số để được một cặp số nhân gồm 5 số hạng."}
+{"k": "73e759b899aebb0411ba57b0713eb0cee791e874", "v": "Cho dãy số ZM0Z với ZM1Z. Tìm 4 số hạng đầu tiên và xét tính đơn điệu của dãy."}
+{"k": "5b0d467fdfca6334168a25736938b22ca133b7f2", "v": "Cho cấp số nhân (ZM0Z) có ZM1Z và ZM2Z. Tìm số hàng đầu ZM3Z và cộng bởi ZM4Z."}
+{"k": "6671e0f57a3338183660169662787fd4a0268c01", "v": "Cho cấp số cộng ZM0Z có ZM1Z . Hồi tổng của bao nhiêu số hàng đầu tiên bằng 390?"}
+{"k": "44838d96655352a176cc80d2d3917a137ea48352", "v": "Tính tổng n số hạng đầu tiên của cấp số nhân (u_n) có u_1  3, q  2 biết S_n  765."}
+{"k": "e4b9094a8bd02b930da60ff60a5ef0ce23189d7c", "v": "Cho cấp số nhân ( ZM0Z ) có ZM1Z và q  3. Số -1458 là số hạng thứ bao nhiêu của cấp số nhân này?"}
+{"k": "22f3b6b4535ed816ffc7ce87330f0ec73a0c6e8b", "v": "Cho cấp số cộng (ZM0Z) có ZM1Z và công sai ZM2Z. Tìm số hạng thứ 20 và tính tổng 20 số hạng đầu tiên (ZM3Z)."}
+{"k": "56ddd00b21353d36f1e9a25923206fdbda214b55", "v": "Một rạp hát có 20 hạng ghế. Hạng đầu tiên có 15 ghế, mỗi hàng sau có nhiều hơn hàng liền trước 3 ghế. Tính tổng số ghế của rạp hát."}
+{"k": "5312de9db56fc62aff0d8cbd28eec82dda4dddd8", "v": "Dao động của một con lắc đơn được mô tả bởi công thức li độ góc ZM0Z (rad). Tìm các thời điểm trong khoảng ZM1Z giây mà còn lắc đi qua vị trí cân bằng (ZM2Z)."}
+{"k": "cd88bed9da790363c6a7907e331fe43ad15fcb04", "v": "Nhiệt độ ngoài trời ZM0Z (ZM1ZC) tại một địa phương trong ngày được mô phỏng bởi hàm số ZM2Z với t là số giờ tính từ 0 giờ đêm (ZM3Z). Lúc mấy giờ trong ngày thì nhiệt độ đạt ZM4ZC?"}
+{"k": "83c35acdb64594caf6c10c02f78399c66d03999a", "v": "Dân số của một thành phố năm 2024 là 1.200.000 người. Nếu tỉ lệ tăng dân số bình quân mỗi năm ổn định ở mức 1,5%/năm, ước tính dân số của thành phố đó vào năm 2030 (làm tròn đến hàng đơn vị)."}
+{"k": "3f8173394e24ff926a6c7d0e629f6569e3f6acce", "v": "Mực nước cao nhất tại một bến cảng được mô hình hóa bởi hàm số ZM0Z, trong đó ZM1Z tính bằng mét và t là số giờ tính từ 0 giờ sáng (ZM2Z). Tìm thời điểm trong ngày mà mực nước đạt độ cao lớn nhất."}
+{"k": "184d3ecbc4e216e1a2afea08513a4bf8685d7a0e", "v": "Một quả bóng được thả rơi từ độ từ độ cao 100 m. Mỗi lần chạm đất, bóng này lên được độ cao bằng ZM0Z độ cao của lần rơi trước đó. Tính tổng quãng đường quả bóng di chuyển được kể từ lúc thả đến khi nó chạm đất lần thứ 5."}
+{"k": "1b7ef76f2b25792608c821c9e336d702d456cd82", "v": "Một người muốn khoan một cái giếng sâu 25 m. Giá của mét khoan đầu tiên là 200.000 đồng, kể từ mét thứ hai trở đi mỗi mét tăng thêm 30.000 đồng so với mét liền trước. Tính tổng chi phí người đó phải trả để khoan xong giếng."}
+{"k": "41956549060c92f68aae8ee2367190b87f1411e1", "v": "Cường độ ánh sáng ZM0Z từ một ngọn hải đăng quét qua một vị trí bờ biển biển đôi tuần hoàn theo công thức ZM1Z (đơn vị lumen, ZM2Z tính bằng giây). Trong 20 giây đầu tiên, có bao nhiêu lần ngọn hải đăng đạt cường độ sáng tối đa?"}
+{"k": "09767afda1ebe7f865a06ebff0ee77061d1f4ac9", "v": "Một công ty xây dựng thỏa thuận trả lương cho một kỹ sư như sau: năm thứ nhất lương là 180 triệu đồng/năm; từ năm thứ hai trở đi, mỗi năm được tăng lương thêm 15 triệu đồng/năm. Hồi sau 10 năm làm việc tại công ty, kỹ sư đó nhận được tổng cộng bao nhiêu tiền lương?"}
+{"k": "a7ee986db766a2a19b6fd3e9a1ba3d9e16f48eea", "v": "Một chiếc dù quay hình tròn có bán kính 20 m, trục quay cách mặt đất 22 m và quay đều 1 vòng hết 60 giây. Độ cao ZM0Z (mét) của một cabin so với mặt đất tại thời điểm t giây tính từ vị trí thấp nhất được chở bởi ZM1Z. Sau bao lâu kể từ lúc bắt đầu quay thì cabin ở độ cao 32 m lần đầu tiên?"}
+{"k": "994f9c192f9c9a10d8e9edf99bfa56de527af449", "v": "Tính giá trị của biểu thức không dùng máy tính: ZM0Z."}
+{"k": "359414686442cbbefc15697b17a9403f50c418ac", "v": "Tính tổng n số hạng đầu tiên của cấp số nhân ( ZM0Z ) có ZM1Z biết ZM2Z ."}
+{"k": "b66593ed8a40595d06ec4916d8b55a51493abb28", "v": "Cho dãy số ZM0Z với ZM1Z . Tìm 4 số hạng đầu tiên và xét tính đơn điệu của dãy."}
