@@ -2,7 +2,6 @@
 
 ## NGHIÊN CỨU, CẢI TIẾN KHẢ NĂNG XỬ LÝ VÀ TRÍCH XUẤT NỘI DUNG CÔNG THỨC TOÁN TỪ TÀI LIỆU PDF
 
-**Môn học:** Công nghệ lập trình hiện đại — SGU, HK1 2026–2027
 
 ---
 
